@@ -12,7 +12,7 @@ A simple and interactive quiz application built with **HTML**, **CSS**, and **Ja
 ### Live Demo
 
 You can try the live version here:  
-👉 [Demo Link](https://your-demo-link.com) _(Replace with your GitHub Pages or Netlify link)_
+👉 [Quiz Game](https://aminbaniamer.github.io/Quiz-Game/)
 
 ---
 
